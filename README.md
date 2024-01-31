@@ -9,7 +9,7 @@ Meteo is a simple weather application that provides information about the curren
 
 ## Get Started
 
-- Open the index.html file in your web browser.
+- Open this link : https://sideyn.github.io/Meteo/.
 - The application will display the current temperature for the default city.
 - Click on the "Change city" button to input a different city.
 - The temperature information will be updated accordingly.
